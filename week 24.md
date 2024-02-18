@@ -4,5 +4,5 @@
 [CRUD Project](https://youtu.be/72U5Af8KUpA?si=vo0akKCMulfJaV1c) <br/>
 
 **Task 2**
- Only Ch1 from this playlist [Mahara tech](https://maharatech.gov.eg/course/view.php?id=740)
+ Only first 11 video [MٍYSQL](https://youtu.be/jIKAQ-ZwlxM?si=_vogPiix8IaBtf9t)
 <br/>
